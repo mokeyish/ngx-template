@@ -1,6 +1,11 @@
-# A strengthened angular template.
+# NgxTemplate
 
-## Usage
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://badge.fury.io/js/ngx-template.svg)](https://badge.fury.io/js/ngx-template)
+
+## A strengthened angular template.
+
+### Usage
 
 1. Import
 
