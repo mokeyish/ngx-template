@@ -1,7 +1,9 @@
 {
     "name": "ngx-template",
     "license": "MIT",
-    "version": "1.0.3",
+    "version": "1.0.4",
+    "description": "A strengthened angular template",
+    "keywords": ["ngx", "template"],
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
