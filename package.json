@@ -1,13 +1,13 @@
 {
     "name": "ngx-template",
     "license": "MIT",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "A strengthened angular template",
     "keywords": ["ngx", "template"],
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
-        "build": "tsc -p tsconfig-release.json",
+        "build": "ngc -p tsconfig-release.json",
         "test": "ng test",
         "lint": "ng lint",
         "e2e": "ng e2e"
